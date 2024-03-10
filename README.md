@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm SAJJAD</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, welcome to my page</h1>
+<h3 align="center">I'm Sajjad, a dedicated Computer Engineering student at Eskisehir Osmangazi University. Currently on the journey to complete my Bachelor's degree, I have a keen interest in data engineering and crafting data-driven applications using machine learning.
+
+For the next few months, my focus will be on intensive studies in image processing and computer vision. This short-term endeavor aims to equip me with the skills necessary for upcoming auto-detection projects. Join me on this coding adventure as I explore the dynamic intersections of technology and innovation!</h3>
 
 - 🔭 I’m currently working on **image processing & computer vision**
 
