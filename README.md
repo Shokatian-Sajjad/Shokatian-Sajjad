@@ -51,9 +51,18 @@ I am an AI Engineer specializing in **Deep Learning, Graph Neural Networks (GNNs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokatian-sajjad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-### 📈 GitHub Contribution Activity
+### 📅 GitHub Contribution Calendar
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shokatian-sajjad&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img
+    src="https://ghchart.rshah.org/2ea44f/shokatian-sajjad"
+    alt="GitHub contribution calendar for shokatian-sajjad — green squares indicate days with commits"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>Each green square represents a day with GitHub contributions; darker green indicates more activity.</sub>
 </p>
 
 
