@@ -47,8 +47,8 @@ I am an AI Engineer specializing in **Deep Learning, Graph Neural Networks (GNNs
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjad-shokatian&show_icons=true&theme=tokyonight&hide_border=true" alt="Sajjad's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-shokatian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shokatian-sajjad&show_icons=true&theme=tokyonight&hide_border=true" alt="Sajjad's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokatian-sajjad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
