@@ -1,26 +1,57 @@
-<h1 align="center">Hi 👋, welcome to my page</h1>
-<h3 align="center">I'm Sajjad, a dedicated Computer Engineering student at Eskisehir Osmangazi University. Currently on the journey to complete my Bachelor's degree, I have a keen interest in data engineering and crafting data-driven applications using machine learning.
+# Hi there, I'm Sajjad Shokatian 👋
 
-For the next few months, my focus will be on intensive studies in image processing and computer vision. This short-term endeavor aims to equip me with the skills necessary for upcoming auto-detection projects. Join me on this coding adventure as I explore the dynamic intersections of technology and innovation!</h3>
+### M.Sc. AI Engineering Student @ University of Passau 
 
-- 🔭 I’m currently working on **image processing & computer vision**
+I am an AI Engineer specializing in **Deep Learning, Graph Neural Networks (GNNs), LLMs/RAG, and Autonomous Systems**. Currently pursuing my Master's in AI Engineering at the University of Passau, I have hands-on industry and research experience building robust machine learning architectures, predictive maintenance models, and intelligent agents.
 
-- 🌱 I’m currently learning **python , opencv and numpy**
+---
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+### 🔭 About Me
+- 🎓 **Education:** M.Sc. in AI Engineering at the **University of Passau** | B.Sc. in Computer Engineering from **Eskişehir Osmangazi University** (Top 10%, CGPA 3.36/4.0) | Erasmus+ Exchange at **Hochschule Offenburg**
+- 💼 **Experience:** Former Full-Time Intern at **Becure GmbH** (GNN, LSTM, and STGNN modeling for exercise/movement analysis) & Summer Intern at **INOSENS** (CAPE project)
+- 🎯 **Current Focus:** Seeking **Working Student or Internship roles in AI/ML Engineering** where I can apply deep learning, computer vision, and LLM pipelines to solve complex real-world problems.
+- 🏆 **Certifications:** NVIDIA Deep Learning Institute (*Building Agentic AI* & *Predictive Maintenance*)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shokatian-Sajjad/Shokatian-Sajjad](https://github.com/Shokatian-Sajjad/Shokatian-Sajjad)
+---
 
-- 📫 How to reach me **shokatyansajad@gmail.com**
+### 🛠️ Core Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**AI, Machine Learning & Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Developer Tools & Environment**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Domains & Architectures**  
+`Graph Neural Networks (GNN / STGNN)` • `Large Language Models & RAG` • `Reinforcement Learning` • `Computer Vision` • `Anomaly Detection`
+
+---
+
+### 🚀 Highlighted Projects & Research
+
+- 🌬️ **Wind Turbine Anomaly Prediction:** Investigated and developed AI-driven predictive maintenance and anomaly detection models for wind turbine components, utilizing machine learning to forecast mechanical failures and optimize performance.
+- 🤖 **SKynet:** Developed advanced autonomous and reinforcement learning / deep learning flight stabilization and path prediction models (developed alongside TEKNOFEST ROTA team competitions).
+- 🤸 **Exercise Analysis with Spatio-Temporal GNNs:** Built GNN, LSTM, and STGNN architectures during my industry experience at Becure GmbH to model and evaluate human movement execution.
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sajad-shokatian-96333310b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sajad-shokatian-96333310b" height="30" width="40" /></a>
-<a href="https://instagram.com/sajadshokatyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajadshokatyan" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjad-shokatian&show_icons=true&theme=tokyonight&hide_border=true" alt="Sajjad's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-shokatian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shokatian-sajjad&show_icons=true&locale=en&layout=compact" alt="shokatian-sajjad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shokatian-sajjad&show_icons=true&locale=en" alt="shokatian-sajjad" /></p>
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-shokatian)
